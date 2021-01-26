@@ -35,4 +35,9 @@ In this lesson you continue building the Frontend code for the job story designe
 * Continue working on job story. Make sure to finish HTML & CSS. Start working on the client side JavaScript Enhancement
 * Research Looping and Higher Order functions, document your findings in your Wiki and think about the implementation of these two concepts into your Feature
 
+<b>Part of A1 grading</b>
+* Scope - Read and document your findings about the JS concept of Scope. Document your findings inside your Wiki: Front-end: Scope
+* Context - Read and document your findings about the JS concept of Context. Document your findings inside your Wiki: Front-end: Context
+Please do note* APA style for source notation is required.
+
 [cover]: https://eloquentjavascript.net/img/chapter_picture_15.jpg
